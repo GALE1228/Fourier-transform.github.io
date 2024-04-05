@@ -1,25 +1,6 @@
 # Fourier-transform.github.io
 Fourier transform
----
-title: "傅里叶变换"
-author: "Jiale He"
-date: "4/5/2024"
-output:
-  html_document:
-    toc: true
-    df_print: paged
-  pdf_document:
-    toc: true
-    number_sections: true
-    df_print: kable
-    fig_width: 7
-    fig_height: 6
-    fig_caption: true
-    highlight: tango
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 # 前言
 傅里叶变换：傅里叶变换，表示能将满足一定条件的某个函数表示成三角函数（正弦和/或余弦函数）或者它们的积分的线性组合，其应用场景存在于我们日常生活的方方面面！
 
